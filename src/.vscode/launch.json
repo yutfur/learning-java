@@ -1,0 +1,126 @@
+{
+    // IntelliSense を使用して利用可能な属性を学べます。
+    // 既存の属性の説明をホバーして表示します。
+    // 詳細情報は次を確認してください: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Note",
+            "request": "launch",
+            "mainClass": "flairlink.primer.Note",
+            "projectName": "src_c3f97176"
+        },
+        {
+            "type": "java",
+            "name": "Launch Variable",
+            "request": "launch",
+            "mainClass": "flairlink.primer.chapter1.Variable",
+            "projectName": "src_c3f97176"
+        },
+        {
+            "type": "java",
+            "name": "Launch VariableProblem",
+            "request": "launch",
+            "mainClass": "flairlink.primer.chapter1.VariableProblem",
+            "projectName": "src_c3f97176"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExpressionOperator",
+            "request": "launch",
+            "mainClass": "flairlink.primer.chapter2.ExpressionOperator",
+            "projectName": "src_c3f97176"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExpressionOperatorProblem",
+            "request": "launch",
+            "mainClass": "flairlink.primer.chapter2.ExpressionOperatorProblem",
+            "projectName": "src_c3f97176"
+        },
+        {
+            "type": "java",
+            "name": "Launch ControlFlowStatements",
+            "request": "launch",
+            "mainClass": "flairlink.primer.chapter3.ControlFlowStatements",
+            "projectName": "src_c3f97176"
+        },
+        {
+            "type": "java",
+            "name": "Launch ControlFlowStatementsProblem",
+            "request": "launch",
+            "mainClass": "flairlink.primer.chapter3.ControlFlowStatementsProblem",
+            "projectName": "src_c3f97176"
+        },
+        {
+            "type": "java",
+            "name": "Launch Array",
+            "request": "launch",
+            "mainClass": "flairlink.primer.chapter4.Array",
+            "projectName": "src_c3f97176"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayProblem",
+            "request": "launch",
+            "mainClass": "flairlink.primer.chapter4.ArrayProblem",
+            "projectName": "src_c3f97176"
+        },
+        {
+            "type": "java",
+            "name": "Launch Method",
+            "request": "launch",
+            "mainClass": "flairlink.primer.chapter5.Method",
+            "projectName": "src_c3f97176"
+        },
+        {
+            "type": "java",
+            "name": "Launch MethodProblem",
+            "request": "launch",
+            "mainClass": "flairlink.primer.chapter5.MethodProblem",
+            "projectName": "src_c3f97176"
+        },
+        {
+            "type": "java",
+            "name": "Launch PackageProblem",
+            "request": "launch",
+            "mainClass": "flairlink.primer.chapter6.PackageProblem",
+            "projectName": "src_c3f97176"
+        },
+        {
+            "type": "java",
+            "name": "Launch Calc",
+            "request": "launch",
+            "mainClass": "flairlink.primer.chapter6.calcapp.main.Calc",
+            "projectName": "src_c3f97176"
+        },
+        {
+            "type": "java",
+            "name": "Launch Calc_1",
+            "request": "launch",
+            "mainClass": "flairlink.primer.chapter6.calcapp.main.Calc_1",
+            "projectName": "src_c3f97176"
+        },
+        {
+            "type": "java",
+            "name": "Launch InstanceClass",
+            "request": "launch",
+            "mainClass": "flairlink.primer.chapter8.InstanceClass",
+            "projectName": "src_c3f97176"
+        },
+        {
+            "type": "java",
+            "name": "Launch Calc(1)",
+            "request": "launch",
+            "mainClass": "flairlink.primer.test.Calc",
+            "projectName": "src_c3f97176"
+        }
+    ]
+}
